@@ -40,6 +40,6 @@ $ python gradio_interface.py
 
 ## Some examples
 <p>
-  <img src="./interface_gallery/interface_1.png" width="1000" />
-  <img src="./interface_gallery/interface_2.png" width="1000" />
+  <img src="./interface_gallery/interface1.png" width="1000" />
+  <img src="./interface_gallery/interface2.png" width="1000" />
 </p>
