@@ -40,6 +40,8 @@ $ python gradio_interface.py
 
 ## Some examples
 <p>
+  Keywords extraction from slide text
   <img src="./interface_gallery/interface1.png" width="1000" />
+  Predicted autor's locations for slide
   <img src="./interface_gallery/interface2.png" width="1000" />
 </p>
