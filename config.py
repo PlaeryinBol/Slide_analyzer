@@ -1,0 +1,10 @@
+CHAT_WITH_IMAGE = False
+DF_PATH = './example_texts.tsv'
+OPENAI_MODEL = 'gpt-3.5-turbo'  # 'gpt-3.5-turbo' for text tasks, 'gpt-4-turbo' for vision tasks
+OPENAI_API_KEY = '<your api key>'
+PROXY = None
+IMG_DETAIL = 'high'  # 'low' or 'high', depending on the presence of small details/text in the image
+IMAGE_DIR = './example_slides'
+IMG_SIZE = (512, 288)
+MODE = 'keywords_extraction'
+OUT_DF = './result_df.tsv'
